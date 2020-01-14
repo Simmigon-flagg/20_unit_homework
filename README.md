@@ -35,3 +35,16 @@
 <img width="961" alt="Screen Shot 2020-01-14 at 3 55 49 PM" src="https://user-images.githubusercontent.com/8258629/72385790-2fc86500-36ee-11ea-9716-f239638fe58b.png">
 
 <img width="962" alt="Screen Shot 2020-01-14 at 4 01 13 PM" src="https://user-images.githubusercontent.com/8258629/72385791-2fc86500-36ee-11ea-9632-4645ec3c342d.png">
+
+# Scan and Exploit Internal Segment
+
+<img width="961" alt="Screen Shot 2020-01-14 at 4 08 46 PM" src="https://user-images.githubusercontent.com/8258629/72386013-a2394500-36ee-11ea-94aa-700fae3edf96.png">
+
+<img width="961" alt="Screen Shot 2020-01-14 at 4 11 25 PM" src="https://user-images.githubusercontent.com/8258629/72386014-a2394500-36ee-11ea-8462-f27fc04ef041.png">
+
+![Screen Shot 2020-01-14 at 4 20 55 PM](https://user-images.githubusercontent.com/8258629/72386015-a2394500-36ee-11ea-8aea-2729d2814252.png)
+
+<img width="963" alt="Screen Shot 2020-01-14 at 4 23 05 PM" src="https://user-images.githubusercontent.com/8258629/72386016-a2394500-36ee-11ea-9982-7c6cfdc31612.png">
+
+<img width="961" alt="Screen Shot 2020-01-14 at 4 24 37 PM" src="https://user-images.githubusercontent.com/8258629/72386017-a2394500-36ee-11ea-84e3-429960fed109.png">
+
