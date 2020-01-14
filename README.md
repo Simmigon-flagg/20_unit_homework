@@ -48,3 +48,6 @@
 
 <img width="961" alt="Screen Shot 2020-01-14 at 4 24 37 PM" src="https://user-images.githubusercontent.com/8258629/72386017-a2394500-36ee-11ea-84e3-429960fed109.png">
 
+# Covering Tracks
+
+<img width="960" alt="Screen Shot 2020-01-14 at 4 35 14 PM" src="https://user-images.githubusercontent.com/8258629/72386228-0956f980-36ef-11ea-9e04-6c02d45a837a.png">
